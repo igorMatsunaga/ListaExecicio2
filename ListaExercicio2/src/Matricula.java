@@ -28,7 +28,7 @@ public class Matricula {
 		lblTitulo.setText("Matrícula em Disciplina");
 		lblTitulo.setForeground(Color.blue);
 		lblTitulo.setFont(new Font("Arial", Font.BOLD|Font.ITALIC, 18) );
-		lblTitulo.setBounds(170, 10, 210, 30);
+		lblTitulo.setBounds(170, 10, 250, 30);
 		painelBranco.add(lblTitulo);
 		
 		JLabel lblNome = new JLabel();
